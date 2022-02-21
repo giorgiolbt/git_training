@@ -1,3 +1,5 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Changes for the first branch creation
 Add a change to Alice on the Alice branch to generate conflicts
+
+Add a change on the master for rebasing with Patrick branch
