@@ -3,3 +3,5 @@ Changes for the first branch creation
 Add a change to Alice on the Alice branch to generate conflicts
 
 Add a change on the master for rebasing with Patrick branch
+
+Change for simulating a remote change to Alice.txt
