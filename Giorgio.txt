@@ -1,1 +1,2 @@
 Add Giorgio.txt to start working with git in Intellij
+Now I'm changing Giorgio.txt in the IDE
