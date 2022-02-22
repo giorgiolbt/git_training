@@ -1,0 +1,1 @@
+Add Giorgio.txt to start working with git in Intellij
