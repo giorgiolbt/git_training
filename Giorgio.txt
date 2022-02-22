@@ -2,4 +2,6 @@ Add Giorgio.txt to start working with git in Intellij
 Now I'm changing Giorgio.txt in the IDE
 Added this line to verify if now the github account is connected. Modified again after updating user email.
 
+Modified giorgio on giorgio_branch
+
 Modified Giorgio.txt also on the master to generate a conflict
