@@ -11,3 +11,4 @@ Modified Giorgio.txt on github for pulling in development environment.
 Modified Giorgio.txt in the development environment
 Modified Giorgio.txt on github for pulling in development environment + generating a conflict since it will be updated also in the development environment
 
+Added a row in Giorgio.txt to interact with the git environment in Intellij
